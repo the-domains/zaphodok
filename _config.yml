@@ -1,0 +1,14 @@
+layout_spectrum: 0.6148936
+typography_spectrum: 0.4978724
+color:
+  lightness: 0.680851
+  brandStrength: 0.6372521
+  saturation: 0.2042553
+  rhythmicContrast: 0.6617022
+  brandColors:
+    - '#FFFFFF'
+    - '#6E6963'
+    - '#4A4849'
+    - '#96978F'
+    - '#B4B0B4'
+name: zaphodok
